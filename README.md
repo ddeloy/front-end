@@ -1,2 +1,2 @@
 # front-end
-Sampel fron tend repository
+Sampple front end repository
